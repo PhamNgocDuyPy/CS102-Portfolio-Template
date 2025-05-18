@@ -47,7 +47,7 @@ export const PROJECTS: Project[] = [
       'Advanced components and templates to craft beautiful websites.',
     link: 'https://pro.motion-primitives.com/',
     video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4',
+      'https://res.cloudinary.com/dz1dhavd2/image/upload/v1747561053/9fa6334fc8ad92b188dcc3c8d0d7999d_1_tjhrzv.gif',
     id: 'project1',
   },
   {
